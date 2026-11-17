@@ -28,7 +28,7 @@
 | **Unidade curricular** | Algoritmos e Programação — UnDB 2026.2 |
 | **Professor** | Rondineli Seba Salomão |
 | **App-base do meu CRUD** | MusicNote — caderno digital para músicos |
-| **Link do meu repositório** | _https://github.com/…_ |
+| **Link do meu repositório** |[ _https://github.com/…_](https://github.com/ArthurBalbino/MusicNote-CRUD.git) |
 | **Dupla de revisão (Campo 05)** | _nome do colega cujo CRUD vou revisar / que revisa o meu_ |
 | **Função neste ciclo** | Autor do meu CRUD |
 
