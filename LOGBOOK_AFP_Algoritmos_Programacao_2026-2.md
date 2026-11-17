@@ -1,3 +1,4 @@
+[LOGBOOK_MusicNote_GRUPO1.md](https://github.com/user-attachments/files/34949178/LOGBOOK_MusicNote_GRUPO1.md)[Uploading LOGBOOK_MusicNote_GRUPO1.md…]()
 # 📓 LOGBOOK AFP — Algoritmos e Programação (2026.2)
 
 > **Como usar este arquivo:** copie-o para a raiz do **seu** repositório (ou para `logbook/LOGBOOK.md`) e preencha **direto no GitHub** (botão ✏️ *Edit this file*) ou no VS Code. Ele reúne todos os instrumentos do Protocolo AFP 2026.2 (Logbook Individual — Campos 01 a 04, 06 e 07; Registro de Revisão por Pares — Campo 05; Checkpoint Conceitual; Rubrica de Defesa Técnica).
@@ -23,13 +24,13 @@
 
 | Campo | Preencha |
 |---|---|
-| **Nome do estudante** | Arthur Balbino RWodrigues |
+| **Nome do estudante** | Arthur Balbino Rodrigues |
 | **Curso / Módulo** | Engenharia de Software · 2º período |
 | **Unidade curricular** | Algoritmos e Programação — UnDB 2026.2 |
 | **Professor** | Rondineli Seba Salomão |
 | **App-base do meu CRUD** | MusicNote — caderno digital para músicos |
-| **Link do meu repositório** |[ _https://github.com/…_](https://github.com/ArthurBalbino/MusicNote-CRUD.git) |
-| **Dupla de revisão (Campo 05)** | _nome do colega cujo CRUD vou revisar / que revisa o meu_ |
+| **Link do meu repositório** | https://github.com/ArthurBalbino/MusicNote-CRUD |
+| **Dupla de revisão (Campo 05)** | A definir com o professor/colega |
 | **Função neste ciclo** | Autor do meu CRUD |
 
 ---
@@ -106,10 +107,10 @@ Atualize a cada commit (troque ⬜ por ✅).
 
 | Grupo | Item | Prazo | Preenchido | Commit |
 |:--:|---|---|:--:|:--:|
-| 1 | Identificação | 16/11 | ⬜ | ⬜ |
-| 1 | Registros dos Ciclos 01, 02, 03 e 04 | 16/11 | ⬜ | ⬜ |
+| 1 | Identificação | 16/11 | ✅ (revisar dupla) | ⬜ |
+| 1 | Registros dos Ciclos 01, 02, 03 e 04 | 16/11 | ✅ (rascunhos retrospectivos; validar) | ⬜ |
 | 1 | Campo 01 — Instrumento de entrada | 16/11 | ⬜ | ⬜ |
-| 1 | Campo 02 — Aprofundamento | 16/11 | ⬜ | ⬜ |
+| 1 | Campo 02 — Aprofundamento | 16/11 | ⬜ (rascunho; conferir Campo 01 e fontes) | ⬜ |
 | 2 | Registros dos Ciclos 05, 06, 07 e 08 | 21/11 | ⬜ | ⬜ |
 | 2 | Checkpoint Conceitual | 21/11 | ⬜ | ⬜ |
 | 2 | Campo 03 — Execução e desvios | 21/11 | ⬜ | ⬜ |
@@ -161,6 +162,8 @@ Cada ciclo tem sua própria seção abaixo, já com o modelo. Se precisar de esp
 > **Janela:** quarta 11/11 → segunda 16/11. **O que entregar:** Identificação · Registros dos Ciclos 01, 02, 03 e 04 · Campo 01 · Campo 02.
 >
 > **Sugestão de ordem:** (1) Identificação → (2) **Campo 01 primeiro, sem consulta** → (3) Registros dos Ciclos 01 a 04 → (4) Campo 02, com pesquisa.
+>
+> **Nota de atualização (16/11/2026):** os registros abaixo foram organizados retrospectivamente nesta data, a partir do planejamento atual do MusicNote. As datas dos ciclos indicam os assuntos do cronograma da disciplina, **não** que o aplicativo já tenha sido implementado nessas aulas. Não há testes, commits de código ou feedback docente declarados como realizados sem evidência.
 
 **Checklist do Grupo 1**
 - [ ] Identificação preenchida (app-base, link do repositório, dupla de revisão)
@@ -182,13 +185,14 @@ Cada ciclo tem sua própria seção abaixo, já com o modelo. Se precisar de esp
 </details>
 
 #### Registro do Ciclo 01 — 12/08
-1. **Desafio do ciclo (em 1 frase):** _…_
-2. **O que implementei (commits / arquivos / links):** _…_
-3. **Objeto(s) de conhecimento mobilizado(s):** _…_
-4. **Desvio ou erro encontrado + causa técnica:** _…_
-5. **Decisão de ajuste + fonte:** _…_
-6. **Feedback recebido e o que mudei:** _…_
-7. **Próximo passo:** _…_
+*Registro retrospectivo elaborado em 16/11/2026.*
+1. **Desafio do ciclo (em 1 frase):** Definir um aplicativo como base para um CRUD que possa evoluir conforme os conteúdos de Algoritmos e Programação.
+2. **O que implementei (commits / arquivos / links):** Até o momento, defini a proposta do **MusicNote**, um caderno digital para músicos; o repositório informado é https://github.com/ArthurBalbino/MusicNote-CRUD. O código ainda será escrito e testado por mim; não estou atribuindo commits antigos ao projeto.
+3. **Objeto(s) de conhecimento mobilizado(s):** Planejamento de algoritmo, identificação das quatro operações CRUD, organização de arquivos e noções de versionamento com Git/GitHub.
+4. **Desvio ou erro encontrado + causa técnica:** No notebook, o VS Code não está abrindo. A causa técnica ainda não foi diagnosticada; por isso, não é correto afirmar que o problema foi resolvido.
+5. **Decisão de ajuste + fonte:** Planejei utilizar um editor no navegador, preferencialmente GitHub Codespaces, e manter o projeto no GitHub. **Objeto:** ambiente de desenvolvimento e controle de versões. **Referência para estudo:** documentação do GitHub, https://docs.github.com/pt/codespaces.
+6. **Feedback recebido e o que mudei:** Ainda não tenho feedback específico do professor sobre o MusicNote registrado; pretendo solicitar orientação depois de publicar a primeira versão.
+7. **Próximo passo:** Preparar o ambiente pelo navegador, escrever um menu em Python e registrar commits reais.
 
 ## 🟢 CICLO 02 — 19/08 — Variáveis, tipos de dados e entrada/saída
 
@@ -212,6 +216,8 @@ Cada ciclo tem sua própria seção abaixo, já com o modelo. Se precisar de esp
 ### 🧩 CAMPO 01 — Instrumento de entrada
 *Grupo 1 | Prazo segunda 16/11, 23h59 | SEM CONSULTA*
 
+> **PENDENTE DE PREENCHIMENTO INDIVIDUAL:** responder sem consulta, com suas próprias ideias; se a janela original foi perdida, assinalar o preenchimento tardio e conversar com o professor. Esta seção foi preservada sem respostas geradas por IA.
+
 **1a. Objetos de conhecimento identificados (mínimo 3, com vocabulário técnico):**
 1. _…_
 2. _…_
@@ -230,34 +236,35 @@ Cada ciclo tem sua própria seção abaixo, já com o modelo. Se precisar de esp
 ### 🧩 CAMPO 02 — Aprofundamento pós-aula
 *AV Qualis — Grupo 1 | Segunda 16/11, 23h59*
 
-> **Preenchido depois do Campo 01, com pesquisa real. Deve ser coerente com o Campo 01. Incoerência = evidência de autoria externa.**
+> **RASCUNHO PARA CONFERÊNCIA APÓS O CAMPO 01.** As referências abaixo são indicações de pesquisa, não uma afirmação de que o aluno já as leu integralmente. A hipótese deve ser comparada com a resposta individual do Campo 01 antes da entrega.
 
 **2a. Aprofundamento dos objetos de conhecimento (mínimo 2 referências com síntese da contribuição para a solução):**
 
-- **Referência 1:** _…_ — **Contribuição:** _…_
-- **Referência 2:** _…_ — **Contribuição:** _…_
+- **Referência 1:** Python Software Foundation. *O tutorial de Python — Uma introdução informal ao Python*. https://docs.python.org/pt-br/3/tutorial/introduction.html — **Contribuição potencial:** compreender atribuição de variáveis, textos e os valores que serão guardados temporariamente nos campos da música.
+- **Referência 2:** Python Software Foundation. *O tutorial de Python — Mais ferramentas de controle de fluxo*. https://docs.python.org/pt-br/3/tutorial/controlflow.html — **Contribuição potencial:** compreender como `if`, `elif`, `else` e laços permitem controlar o menu, impedir operações inválidas e repetir as opções até a saída.
 
 **2b. Hipótese revisada — o que mudou em relação ao Campo 01 e por quê:**
 
-> _…_
+> **Rascunho a adaptar após o Campo 01:** No planejamento do MusicNote, percebo que um CRUD depende não apenas de receber dados, mas de controlar o estado do cadastro e validar as operações solicitadas. Sem essa verificação, o usuário poderia tentar consultar, editar ou excluir uma música inexistente. Pretendo usar variáveis e condicionais na primeira versão e confirmar essa hipótese por meio de testes. **Comparação com minha hipótese inicial, escrita sem consulta:** _[completar pessoalmente antes do commit]_.
 
-**2c. Dimensionamento inicial de recursos (recurso, quantidade estimada, justificativa técnica — mínimo 3 itens):**
+**2c. Dimensionamento inicial de recursos (estimativas; recurso, quantidade e justificativa):**
 
 | RECURSO / MATERIAL / INSUMO | QUANTIDADE ESTIMADA | JUSTIFICATIVA TÉCNICA |
 |---|---|---|
-| _…_ | _…_ | _…_ |
-| _…_ | _…_ | _…_ |
-| _…_ | _…_ | _…_ |
-| _…_ | _…_ | _…_ |
+| Arquivo principal em Python | 1 arquivo `.py` | Concentrar o protótipo inicial em um programa simples, sem funções ou estruturas dinâmicas nesta etapa. |
+| Casos de teste planejados | 5 casos | Testar cadastro, consulta, edição, exclusão e seleção inválida; conferir também o uso sem cadastro. |
+| Tempo de estudo e implementação | 3 horas (estimativa) | Escrever o código, interpretar erros e compreender cada comando antes da defesa. |
+| Campos simples para a música | 6 variáveis de texto | Guardar título, compositor, tom, cifra, letra e anotações sem utilizar listas ou dicionários. |
 
 #### Registro do Ciclo 02 — 19/08
-1. **Desafio do ciclo (em 1 frase):** _…_
-2. **O que implementei (commits / arquivos / links):** _…_
-3. **Objeto(s) de conhecimento mobilizado(s):** _…_
-4. **Desvio ou erro encontrado + causa técnica:** _…_
-5. **Decisão de ajuste + fonte:** _…_
-6. **Feedback recebido e o que mudei:** _…_
-7. **Próximo passo:** _…_
+*Registro retrospectivo elaborado em 16/11/2026.*
+1. **Desafio do ciclo (em 1 frase):** Planejar os dados que representam uma música e as entradas e saídas necessárias para cadastrá-la.
+2. **O que implementei (commits / arquivos / links):** Especifiquei os campos iniciais **título, compositor, tom, cifra, letra e anotações**; a implementação em Python ainda será realizada e não há commit de código indicado neste registro.
+3. **Objeto(s) de conhecimento mobilizado(s):** Variáveis, atribuição de valores, tipo `str`, entrada de dados com `input()` e saída com `print()`.
+4. **Desvio ou erro encontrado + causa técnica:** **Risco previsto, ainda não testado:** dados de entrada podem chegar vazios, pois `input()` retorna texto digitado pelo usuário e não realiza validação de campos obrigatórios automaticamente.
+5. **Decisão de ajuste + fonte:** Planejei receber os campos como textos e verificar se o título foi informado antes de concluir o cadastro. **Objeto:** variáveis, entrada e validação. **Fonte para estudo:** Tutorial de Python — Introdução, https://docs.python.org/pt-br/3/tutorial/introduction.html.
+6. **Feedback recebido e o que mudei:** Não há feedback específico documentado até agora; esta decisão ainda precisa ser testada durante a implementação.
+7. **Próximo passo:** Criar as variáveis e testar o cadastro com títulos preenchidos e vazios.
 
 ## 🟢 CICLO 03 — 26/08 — Operadores, fluxogramas e paradigmas
 
@@ -270,13 +277,14 @@ Cada ciclo tem sua própria seção abaixo, já com o modelo. Se precisar de esp
 </details>
 
 #### Registro do Ciclo 03 — 26/08
-1. **Desafio do ciclo (em 1 frase):** _…_
-2. **O que implementei (commits / arquivos / links):** _…_
-3. **Objeto(s) de conhecimento mobilizado(s):** _…_
-4. **Desvio ou erro encontrado + causa técnica:** _…_
-5. **Decisão de ajuste + fonte:** _…_
-6. **Feedback recebido e o que mudei:** _…_
-7. **Próximo passo:** _…_
+*Registro retrospectivo elaborado em 16/11/2026.*
+1. **Desafio do ciclo (em 1 frase):** Definir como o menu do aplicativo reconhecerá as operações selecionadas pelo usuário.
+2. **O que implementei (commits / arquivos / links):** Planejei um menu com as opções 1 (cadastrar), 2 (consultar), 3 (editar), 4 (excluir) e 5 (sair); ainda não afirmo que o código foi executado.
+3. **Objeto(s) de conhecimento mobilizado(s):** Operadores de atribuição (`=`), comparação (`==`, `!=`) e expressões booleanas utilizadas nas decisões do programa.
+4. **Desvio ou erro encontrado + causa técnica:** **Dificuldade conceitual a verificar:** confundir atribuição de uma opção com comparação de valores pode tornar a condição incorreta; não há erro de execução registrado ainda.
+5. **Decisão de ajuste + fonte:** Planejei tratar `opcao` como texto e comparar `opcao == "1"`, sem confundi-la com atribuição. **Objeto:** operadores relacionais e tipos de dados. **Fonte para estudo:** Tutorial de Python — Controle de fluxo, https://docs.python.org/pt-br/3/tutorial/controlflow.html.
+6. **Feedback recebido e o que mudei:** Ainda não há feedback individual documentado sobre esta etapa.
+7. **Próximo passo:** Escrever o menu e testar escolhas válidas, inválidas e a opção de sair.
 
 ## 🟢 CICLO 04 — 02/09 — Estruturas condicionais: `if`, `elif`, `else`
 
@@ -291,13 +299,14 @@ Cada ciclo tem sua própria seção abaixo, já com o modelo. Se precisar de esp
 </details>
 
 #### Registro do Ciclo 04 — 02/09
-1. **Desafio do ciclo (em 1 frase):** _…_
-2. **O que implementei (commits / arquivos / links):** _…_
-3. **Objeto(s) de conhecimento mobilizado(s):** _…_
-4. **Desvio ou erro encontrado + causa técnica:** _…_
-5. **Decisão de ajuste + fonte:** _…_
-6. **Feedback recebido e o que mudei:** _…_
-7. **Próximo passo:** _…_
+*Registro retrospectivo elaborado em 16/11/2026.*
+1. **Desafio do ciclo (em 1 frase):** Planejar regras que impeçam operações em uma música que ainda não foi cadastrada.
+2. **O que implementei (commits / arquivos / links):** Desenhei a lógica proposta: `if` para verificar uma opção, `elif` para as outras alternativas e `else` para opção inválida. A escrita e execução do CRUD ainda estão pendentes.
+3. **Objeto(s) de conhecimento mobilizado(s):** Estruturas condicionais `if`, `elif` e `else`, condições booleanas e regras de negócio do CRUD.
+4. **Desvio ou erro encontrado + causa técnica:** **Falha potencial identificada no planejamento:** permitir consultar, editar ou excluir sem cadastro resultaria em operações sem registro válido. Ainda não é um bug observado em teste.
+5. **Decisão de ajuste + fonte:** Planejei uma variável booleana indicando se existe música cadastrada e uma verificação antes das operações R, U e D. **Objeto:** seleção condicional e validação de estado. **Fonte para estudo:** Python — Controle de fluxo, https://docs.python.org/pt-br/3/tutorial/controlflow.html.
+6. **Feedback recebido e o que mudei:** Não recebi, até este registro, uma avaliação específica do MusicNote que possa relatar como feedback real.
+7. **Próximo passo:** Implementar as condições, testar as quatro operações e registrar resultados e correções no GitHub.
 
 ---
 
